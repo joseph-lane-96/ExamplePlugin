@@ -16,9 +16,9 @@ When the follow-up task is created, the plugin should also send an **email notif
 
 `hello@christian-aid.org`
 
-The email should be about the task that was created — for example, that a follow-up has been scheduled — with enough detail for someone to act on it.
+The email should be about the task that was created with enough detail for someone to act on it.
 
-(You may make up any SMTP configuration and credentials as required)
+(You may invent any SMTP configuration and credentials as required)
 
 ### Guidance
 
@@ -27,3 +27,11 @@ The email should be about the task that was created — for example, that a foll
 - You are **not** expected to register or deploy the plugin into a live Dataverse environment for this exercise.
 - You may assume the creation of any dependant entities. Please leave brief comments to explain what you would create or other design choices you have made.
 - You may refactor the existing code as you see fit.
+
+
+The deadline is **10am Wednesday 15th July**. Please submit either:
+
+- A link to a forked version of the repository with your changes.
+- An attached text file of your code (e.g. AccountFollowup.cs.txt)
+
+
