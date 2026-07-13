@@ -2,7 +2,7 @@
 
 This repository contains a .NET Framework class library that implements a Microsoft Dataverse (Dynamics 365) plugin. You should assume the current code runs on **Create** of an **account** record, with the goal of creating a linked **task** activity scheduled for **7 days** later.
 
-Your goal is to improve `AccountFollowup` so that it is more suitable for a real CRM solution.
+Your goal is to improve `ExamplePlugin/ExamplePlugin/AccountFollowup.cs` so that it is more suitable for a real CRM solution.
 
 ### 1. Make behaviour configurable
 
